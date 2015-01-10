@@ -1,0 +1,9 @@
+*~
+*.swp
+.project
+.DS_Store
+cgi-bin
+devel
+feedback.txt
+index.html
+make_packages.sh
